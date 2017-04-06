@@ -2188,6 +2188,10 @@ body.homepage.is-loading #header:after {
   overflow: hidden;
 }
 
+body.left-sidebar #nav{
+  background-image: url("../../images/header.jpg");
+}
+
 #nav > ul {
   line-height: 0px;
   position: relative;
