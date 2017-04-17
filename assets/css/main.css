@@ -1593,8 +1593,9 @@ h4 {
   margin: 0 0 0.25em 0;
 }
 
-h3 myname {
-  font-size: 1.25em;
+h3.myname {
+  font-size: 1.75em;
+  text-align: center;
 }
 
 strong, b {
@@ -2079,10 +2080,15 @@ header .icon.circled {
 }
 
 /* Header */
+
 .img_perso{
   border-radius: 50%;
   width: 12em;
   height: 12em;
+}
+
+.bandeau{
+  text-align: center;
 }
 
 #header {
